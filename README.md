@@ -90,4 +90,4 @@ This website template is provided for the exclusive use of ICCISA 2026 conferenc
 ## Contact
 
 For questions or support regarding this website, please contact the conference organizers at iccisa@neu.edu.tr.
-https:// muratarslan.me - Murat ARSLAN
+https://muratarslan.me - Murat ARSLAN
